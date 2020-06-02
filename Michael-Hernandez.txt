@@ -121,12 +121,12 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
         copy repository link
         create dir in git bash
         clone repostory to directory
-        branch repostory to you ex: git checkout - b "firstname-lastname"
+        branch repostory to you example: git checkout -b "firstname-lastname"
         make changes neccesary to project if adding a file one could use git add "filename"
-        commit changes using git commit - m
+        commit changes using git commit -m
         push changes using git push
         submit pull request
-            go to forked repositoryclick branch master
+            go to forked repository click branch master
             click new pull request  
             add reviewer
             click create pull request
